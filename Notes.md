@@ -105,6 +105,7 @@ A library is a set of low-level components that can be invoked (called) for a sp
 
 # What is JSX
 
+
 JSX stands for JavaScript XML.
 
 JSX allows us to write HTML in React.
